@@ -4,6 +4,7 @@
 
 export const environment = {
   production: false
+   backUrl: "http://192.168.56.3:8082/SpringMVC"
 };
 
 /*
